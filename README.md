@@ -169,9 +169,5 @@ The experiment achieved statistical significance and demonstrated substantial pr
 
 ---
 
-## 👨‍💻 Author
 
-David Raj
-
-GitHub: https://github.com/Davidbirru
 
